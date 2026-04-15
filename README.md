@@ -27,7 +27,7 @@ This project analyzes sales data to uncover insights related to revenue, profit,
 ## 📷 Dashboard Preview
 
 ![Overview](screenshots/overview.png)
-![Product Insights](screenshots/product insights.png)
+![Product Insights](screenshots/product_insights.png)
 
 ## 🚀 Outcome
 
