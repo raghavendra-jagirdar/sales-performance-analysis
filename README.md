@@ -1,4 +1,4 @@
-# Sales Performance Analysis Dashboard (Power BI)
+# 📊 Sales Performance Analysis Dashboard (Power BI)
 
 ## 📊 Overview
 
