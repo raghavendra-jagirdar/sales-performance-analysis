@@ -1,8 +1,13 @@
-# 📊 Sales Performance Analysis Dashboard (Power BI)
+# 📊 Sales Performance Analysis (Power BI)
 
-## 📊 Overview
+## 📌 Project Overview
 
-This project analyzes sales data to uncover insights related to revenue, profit, customer behavior, and operational performance.
+This project analyzes sales data to uncover insights related to revenue, profitability, customer behavior, and operational performance.
+
+## 🎯 Business Problem
+
+Businesses often struggle to understand which regions, products, and time periods drive revenue and profit.
+This project aims to identify sales trends, profitability issues, and areas of operational inefficiency to support better decision-making.
 
 ## 🛠 Tools Used
 
@@ -19,10 +24,10 @@ This project analyzes sales data to uncover insights related to revenue, profit,
 
 ## 📈 Key Insights
 
-* South America leads in revenue generation
-* Peak sales observed in May, lowest in April
-* Top products drive both revenue and profit consistently
-* High return and cancellation rates indicate improvement areas
+* Revenue is heavily concentrated in South America, indicating potential dependency on a single region and associated business risk.
+* Sales peak in May while dipping in April, suggesting seasonal demand patterns that can impact inventory and planning.
+* A small group of top-performing products contributes significantly to both revenue and profit, highlighting opportunities for product-focused strategies.
+* High return and cancellation rates point to operational inefficiencies, potentially impacting overall profitability and customer satisfaction.
 
 ## 📷 Dashboard Preview
 
