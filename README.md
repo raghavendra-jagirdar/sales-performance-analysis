@@ -29,10 +29,16 @@ This project aims to identify sales trends, profitability issues, and areas of o
 * A small group of top-performing products contributes significantly to both revenue and profit, highlighting opportunities for product-focused strategies.
 * High return and cancellation rates point to operational inefficiencies, potentially impacting overall profitability and customer satisfaction.
 
-## 📷 Dashboard Preview
+## 🖼️ Dashboard Preview
 
-![Overview](screenshots/overview.png)
+### 🔹 Sales Overview
+
+![Sales Overview](screenshots/overview.png)
+
+### 🔹 Product Insights
+
 ![Product Insights](screenshots/product_insights.png)
+
 
 ## 🚀 Outcome
 
