@@ -9,10 +9,10 @@ This project analyzes sales data to uncover insights related to revenue, profita
 Businesses often struggle to understand which regions, products, and time periods drive revenue and profit.
 This project aims to identify sales trends, profitability issues, and areas of operational inefficiency to support better decision-making.
 
-## 🛠 Tools Used
-
-* Power BI
-* Excel
+## 🚀 Tools Used
+- Power BI  
+- Excel  
+- DAX  
 
 ## 📌 Key KPIs
 
@@ -29,6 +29,14 @@ This project aims to identify sales trends, profitability issues, and areas of o
 * A small group of top-performing products contributes significantly to both revenue and profit, highlighting opportunities for product-focused strategies.
 * High return and cancellation rates point to operational inefficiencies, potentially impacting overall profitability and customer satisfaction.
 
+## 📐 Key DAX Measures
+
+* Total Revenue = SUM(revenue)
+* Total Profit = SUM(profit)
+* Profit % = DIVIDE(Total Profit, Total Revenue)
+* Average Order Value = DIVIDE(Total Revenue, Total Orders)
+* Total Orders = COUNT(order_id)
+
 ## 🖼️ Dashboard Preview
 
 ### 🔹 Sales Overview
@@ -43,3 +51,10 @@ This project aims to identify sales trends, profitability issues, and areas of o
 ## 🚀 Outcome
 
 This project demonstrates end-to-end data analysis including data cleaning, modeling, visualization, and business insight generation.
+
+## 📂 Project Structure
+
+* dataset/ → Raw dataset used for analysis
+* powerbi/ → Power BI dashboard file (.pbix)
+* screenshots/ → Dashboard preview images
+
