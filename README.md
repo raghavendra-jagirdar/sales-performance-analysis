@@ -50,7 +50,9 @@ This project aims to identify sales trends, profitability issues, and areas of o
 
 ## 🚀 Outcome
 
-This project demonstrates end-to-end data analysis including data cleaning, modeling, visualization, and business insight generation.
+This analysis highlights key revenue drivers, identifies dependency on specific regions, and uncovers operational inefficiencies such as high return and cancellation rates.
+
+The insights can help businesses improve product strategy, optimize regional performance, and reduce losses by addressing inefficiencies in order processing and customer experience.
 
 ## 📂 Project Structure
 
